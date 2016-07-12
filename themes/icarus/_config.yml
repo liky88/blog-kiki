@@ -33,7 +33,7 @@ customize:
         #rss: /
         weibo: http://weibo.com/1503252962/
         instagram: /
-        facebook: / 
+        facebook: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
