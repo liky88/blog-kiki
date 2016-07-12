@@ -31,7 +31,10 @@ customize:
         #facebook: /
         #dribbble: /
         #rss: /
-    social_link_tooltip: false # enable the social link tooltip, options: true, false
+        weibo: http://weibo.com/1503252962/
+        instagram: /
+        facebook: /
+    social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
@@ -63,7 +66,7 @@ plugins:
     google_analytics: # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
-	#scrollLoading: true # load more images from ajax continuously while scrolling
+	# scrollLoading: true # load more images from ajax continuously while scrolling
 
 # Miscellaneous
 miscellaneous:
